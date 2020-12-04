@@ -4,7 +4,7 @@
 
 ```
 module "three_tier" {
-  source                = "../"
+  source                = "shamal112mn/vnet/azure"
   private_subnet1_range = "10.0.1.0/24"
   private_subnet2_range = "10.0.2.0/24"
   private_subnet3_range = "10.0.3.0/24"
