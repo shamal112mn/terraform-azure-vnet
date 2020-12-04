@@ -1,6 +1,6 @@
 # terraform azure project 
 
-### Three tier apolication
+### Three tier application
 
 ```
 module "three_tier" {

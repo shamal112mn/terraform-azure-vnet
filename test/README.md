@@ -1,4 +1,4 @@
 # terraform azure project 
 
-### Three tier apolication
+### Three tier application
  
